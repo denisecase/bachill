@@ -62,6 +62,12 @@
      Images:
 	http://www.wikipedia.org
 
+===========================================================================
+      GIT HELP
+===========================================================================
+
+   Help for getting started checking out the code is available at: 
+   https://bitbucket.org/ksucase/sanctuary/wiki/Home
 
 ===========================================================================
 

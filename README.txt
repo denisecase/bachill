@@ -52,6 +52,17 @@
      Blur effects:
 	http://tympanus.net/codrops/2011/11/18/fullscreen-image-blur-effect-with-html5
 
+     Blur effects uses:
+     	A custom version of Modernizr, an open source JavaScript library from 
+                http://modernizr.com.
+
+	A modified version of StackBlur - a fast blur for Canvas by  Mario Klingemann from 
+                http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html
+
+     Images:
+	http://www.wikipedia.org
+
+
 ===========================================================================
 
 ===========================================================================

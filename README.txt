@@ -2,7 +2,8 @@
       README.TXT
 ===========================================================================
 
-   Baby Animal Stress Santuary 
+   Baby Animal Stress Sanctuary  
+   http://BabyAnimalStressSanctuary.com
 
    Unless required by applicable law or agreed to in writing, software
    is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
@@ -20,46 +21,51 @@
    and Javascript.
    
    Inspired by:
-        http://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life.html
+        The online Sanctuary created by K Nowling many years ago, 
+        http://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life.html,
 		and the happiness found at http://www.randomkittengenerator.com.
-
-   Caution:  Audio controls are not showing up, so the volume will need to be adjusted with standard
-        controls; I'm working on it. :)
 
 ===========================================================================
        COMPATIBILITY
 ===========================================================================
 
-   Works with:	
+   Tested with:	
+   
+   	Chrome 20.0.1132.57
+	https://www.google.com/intl/en/chrome/
+	
 	Firefox 13.0.1 
 	http://www.mozilla.org/en-US/firefox/new/
 
-	Internet Explorer 9
+	Internet Explorer 9 (nice debugging tools!)
 	http://windows.microsoft.com/en-US/internet-explorer/downloads/ie/
+	
+	Opera 12
+	http://www.opera.com/download/
 
-  Does NOT work with:
+  Locally, it does not work with:
+  
 	Chrome (a problem with access to local files)
-
 	Opera
  
 ===========================================================================
       SOURCES
 ===========================================================================
 
-     Music:
+    Music:
 	http://www.vgmusic.com/music/console/microsoft/xbox360/index-classic.html
 
-     Blur effects:
+    Blur effects:
 	http://tympanus.net/codrops/2011/11/18/fullscreen-image-blur-effect-with-html5
 
-     Blur effects uses:
+    Blur effects uses:
      	A custom version of Modernizr, an open source JavaScript library from 
-                http://modernizr.com.
+        http://modernizr.com.
 
-	A modified version of StackBlur - a fast blur for Canvas by  Mario Klingemann from 
-                http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html
+	    A modified version of StackBlur - a fast blur for Canvas by  Mario Klingemann from 
+        http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html
 
-     Images:
+    Images:
 	http://www.wikipedia.org
 
 ===========================================================================

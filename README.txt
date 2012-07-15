@@ -9,8 +9,7 @@
    is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
    CONDITIONS OF ANY KIND, either express or implied.
 
-   Denise Case
-   dmcase@ksu.edu
+   Denise Case, Case Consulting
    denisecase@gmail.com
 
 ===========================================================================
@@ -25,29 +24,6 @@
         http://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life.html,
         and the happiness found at http://www.randomkittengenerator.com.
 
-===========================================================================
-       COMPATIBILITY
-===========================================================================
-
-   Tested with:	
-   
-   	Chrome 20.0.1132.57
-	https://www.google.com/intl/en/chrome/
-	
-	Firefox 13.0.1 
-	http://www.mozilla.org/en-US/firefox/new/
-
-	Internet Explorer 9 (nice debugging tools!)
-	http://windows.microsoft.com/en-US/internet-explorer/downloads/ie/
-	
-	Opera 12
-	http://www.opera.com/download/
-
-  Locally, it does not work with:
-  
-	Chrome (a problem with access to local files)
-	Opera
- 
 ===========================================================================
       SOURCES
 ===========================================================================
@@ -66,14 +42,43 @@
         http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html
 
     Images:
-	http://www.wikipedia.org
+	All images are believed to be open source, public domain, or licenced under Creative Commons.
+                Links can be seen by viewing the page source.   If proper attribution has not been provided, 
+	please notify info@babyanimalstresssanctuary.com.
+
+
+===========================================================================
+       COMPATIBILITY
+===========================================================================
+
+   Tested with:	
+   
+   	Chrome 20.0.1132.57
+	https://www.google.com/intl/en/chrome/
+	
+	Firefox 13.0.1 
+	http://www.mozilla.org/en-US/firefox/new/
+
+	Internet Explorer 9
+	http://windows.microsoft.com/en-US/internet-explorer/downloads/ie/
+	
+	Opera 12
+	http://www.opera.com/download/
+
+	Android - tablets and smartphones
+
+  Locally, a problem with access to local storage may cause problems with:
+  
+	Chrome 
+	Opera
+	Sometimes IE
 
 ===========================================================================
       GIT HELP
 ===========================================================================
 
    Help for getting started checking out the code is available at: 
-   https://bitbucket.org/ksucase/sanctuary/wiki/Home
+   https://bitbucket.org/ksucase/sanctuary/wiki/Home.
 
 ===========================================================================
 

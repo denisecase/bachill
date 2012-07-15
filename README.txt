@@ -3,7 +3,7 @@
 ===========================================================================
 
    Baby Animal Stress Sanctuary  
-   http://BabyAnimalStressSanctuary.com
+   http://BAchill.com
 
    Unless required by applicable law or agreed to in writing, software
    is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
@@ -23,7 +23,7 @@
    Inspired by:
         The online Sanctuary created by K Nowling many years ago, 
         http://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life.html,
-		and the happiness found at http://www.randomkittengenerator.com.
+        and the happiness found at http://www.randomkittengenerator.com.
 
 ===========================================================================
        COMPATIBILITY

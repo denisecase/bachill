@@ -4,13 +4,14 @@
 
    Baby Animal Stress Sanctuary  
    http://BAchill.com
+   http://babyanimalstresssanctuary.com
 
    Unless required by applicable law or agreed to in writing, software
    is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
    CONDITIONS OF ANY KIND, either express or implied.
 
-   Denise Case, Case Consulting
-   denisecase@gmail.com
+   Denise Case
+   dmcase@ksu.edu
 
 ===========================================================================
        ABOUT THIS PROJECT

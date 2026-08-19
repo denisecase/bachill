@@ -13,7 +13,7 @@ Lower your stress - and breathe.
 A small project exploring HTML5, CSS, and vanilla JavaScript.
 Thirty public-domain / Creative Commons animal photos cross-fade on an 8-second timer,
 each transition passing through a soft blur.
-A single play/pause button offers a looping ambient track.
+A single ♪ play/pause button offers a looping ambient track.
 
 Inspired by an early online "Sanctuary" by U. Nowling,
 by Jane McGonigal's TED talk on games and well-being,

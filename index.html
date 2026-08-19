@@ -189,9 +189,9 @@
       (function () {
         "use strict";
 
-        var INTERVAL = 8000; // ms between slides
-        var FADE = 1200; // ms crossfade duration
-        var BLUR = 24; // px blur at the peak of the transition
+        var INTERVAL = 10000; // CUSTOM: 10000 ms between slides (must be more than FADE)
+        var FADE = 4000; // CUSTOM: 4000 ms crossfade duration
+        var BLUR = 24; // CUSTOM: 24 px blur at the peak of the transition
 
         var wrapper = document.getElementById("bx-wrapper");
         var loading = wrapper.querySelector(".bx-loading");
@@ -238,10 +238,12 @@
         }
 
         function start() {
+            var FIRST_IMAGE_LINGER_MS = 3000; // CUSTOM: first image holds 3s instead of 8s
           imgs[current].style.opacity = 1;
           imgs[current].style.zIndex = 101;
           hideLoader();
           if (total > 1) {
+            setTimeout(next, FIRST_IMAGE_LINGER_MS);
             setInterval(next, INTERVAL);
           }
         }
